@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm [Mohamed Imran] 👋<br>I am a Sophomore B.Tech Information Technology student at [Sona College Of Technology]. <br>I am passionate about building software solutions and constantly learning new technologies.<br><br>I’m currently working on [Event Management System].<br><br>I’m looking to collaborate on Open Source projects.<br><br>Ask me about Java, C++, or basic Web Dev.<br><br>Languages: C, C++, Java, Python (basics)<br><br>Web Dev: HTML5, CSS3, JavaScript<br><br>Tools: Git, GitHub, VS Code
+Hi there, I'm Mohamed Imran 👋<br>I am a Sophomore B.Tech Information Technology student at Sona College Of Technology. <br>I am passionate about building software solutions and constantly learning new technologies.<br><br>I’m currently working on [Event Management System].<br><br>I’m looking to collaborate on Open Source projects.<br><br>Ask me about Java, C++, or basic Web Dev.<br><br>Languages: C, C++, Java, Python (basics)<br><br>Web Dev: HTML5, CSS3, JavaScript<br><br>Tools: Git, GitHub, VS Code
 
 
 ## 🌐 Socials:
